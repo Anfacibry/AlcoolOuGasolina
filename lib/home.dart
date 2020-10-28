@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
           centerTitle: true,
         ),
         body: Container(
-            color: Colors.blue[400],
+            color: Colors.white,
             width: double.infinity,
             height: double.infinity,
             child: Padding(
